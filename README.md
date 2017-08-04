@@ -14,3 +14,7 @@ Then open a new tab. __This tool only works when opened from a blank tab page.__
 When you are finished with a conversation and would like to remove it from the list by pressing the orange 'X' then hitting "Save."
 
 If you hit "Cancel," your changes will not be saved. 
+
+## Version Control
+
+Type `:version` into the text box and press enter to view what version you're running.
